@@ -1,6 +1,7 @@
-## 随着流行框架的兴起，Axios、Request、Superagent、Fetch、Supertest等http库也各有千秋。[优缺点](http://www.mamicode.com/info-detail-2558633.html)  
+### axios的简单封装    
+
+随着流行框架的兴起，Axios、Request、Superagent、Fetch、Supertest等http库也各有千秋。[优缺点](http://www.mamicode.com/info-detail-2558633.html)  
 create by Chanphy on 2019.3.27
-### axios的简单封装  
 
 ```javascript
   import axios from 'axios';
